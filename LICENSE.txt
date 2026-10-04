@@ -1,0 +1,27 @@
+BPN для Windows
+Copyright (c) 2026 Rerowros. Все права защищены.
+
+Программа бесплатна. Её можно скачивать, устанавливать и использовать.
+
+Распространять установщик можно только без изменений и со ссылкой
+на https://github.com/Rerowros/bpn-releases.
+
+Нельзя изменять программу, выдавать её за свою или распространять
+изменённые версии под названием BPN.
+
+Сторонние компоненты (Mihomo, zapret, WinDivert) распространяются
+по своим лицензиям, см. README.md.
+
+Программа предоставляется «как есть», без каких-либо гарантий.
+
+---
+
+BPN for Windows
+Copyright (c) 2026 Rerowros. All rights reserved.
+
+This software is free to download, install and use. You may redistribute
+the installer only unmodified and with a link to
+https://github.com/Rerowros/bpn-releases. You may not modify it, present
+it as your own, or distribute modified versions under the BPN name.
+Third-party components are covered by their own licenses (see README.md).
+The software is provided "as is", without warranty of any kind.
