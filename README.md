@@ -21,7 +21,7 @@ VPN-клиент сервиса BPN для Windows 10 и 11 (x64).
 SHA-256 каждого установщика указан в описании релиза и в файле `SHA256SUMS.txt` рядом с ним. Проверить в PowerShell:
 
 ```powershell
-Get-FileHash .\BadVpn_1.1.0_x64-setup.exe -Algorithm SHA256
+Get-FileHash .\BadVpn_1.2.0_x64-setup.exe -Algorithm SHA256
 ```
 
 Установщик пока не подписан сертификатом, поэтому Windows может показать «Неизвестный издатель». Нажмите «Подробнее» → «Выполнить в любом случае».
